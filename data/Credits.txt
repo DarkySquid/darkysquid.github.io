@@ -1,0 +1,65 @@
+<block:-1,-1,10,10,offbot,center,Null>
+CREDITS
+
+\c[2]Engine
+Degica
+RPG Maker MV
+
+\c[2]Plugin Programmers
+Moghunter
+Hime
+Galv
+DekitaRPG
+Yanfly
+Krmbn0576
+Hakuen Studio
+Sasuke Kannazuki
+SumRndmDude
+Mjshi
+Shaz
+Darkysquid
+
+\c[2]Artwork
+Degica
+RPG Maker MV
+Moghunter
+Pandamaru
+Whtdragon
+Bokou
+Hiddenone
+Avery
+Cronus
+Pearsona
+Darkysquid
+
+\c[2]Audio
+Degica
+RPG Maker MV
+Credits Song : Rainbow - Since You Been Gone
+Dio
+Death
+Rush
+Muse
+Iron Maiden
+Epica
+Rainbow
+Stratovarius
+Ozric Tentacles
+Nightwish
+Deep Purple
+Van Halen
+Genesis
+Dream Theater
+Aaron Krogh
+
+Un jeu créé par Darkysquid
+
+\c[2]Remerciements
+Toute la liste Imag'In Dragons qui ont testé le jeu
+Toi, qui a joué jusqu'au bout
+Merci ♥
+</block>
+
+<block:999,0,10,10,300,center,Null>
+THE END
+</block>
